@@ -1,0 +1,558 @@
+{
+  "Bakery Products": {
+    "Cakes": {
+      "pound cake": [
+        250,
+        0,
+        1
+      ],
+      "butter cake": [
+        250,
+        70,
+        2
+      ],
+      "layer cake": [
+        250,
+        100,
+        3
+      ],
+      "sponge cake": [
+        250,
+        50,
+        4
+      ],
+      "cheese cake": [
+        250,
+        100,
+        5
+      ],
+      "chiffon cake": [
+        250,
+        100,
+        6
+      ],
+      "pudding cake": [
+        250,
+        100,
+        7
+      ],
+      "biscuit cake": [
+        250,
+        100,
+        8
+      ],
+      "cup cake": [
+        250,
+        100,
+        9
+      ],
+      "pastry cake": [
+        250,
+        100,
+        10
+      ]
+    },
+    "Breads": {
+      "white bread (small)": [
+        30,
+        90,
+        11
+      ],
+      "white bread (medium)": [
+        40,
+        88,
+        12
+      ],
+      "white bread (large)": [
+        60,
+        88,
+        13
+      ],
+      "wheat bread (small)": [
+        40,
+        100,
+        14
+      ],
+      "wheat bread (medium)": [
+        60,
+        100,
+        15
+      ],
+      "wheat bread (large)": [
+        80,
+        100,
+        16
+      ],
+      "whole wheat (small)": [
+        60,
+        100,
+        17
+      ],
+      "whole wheat (medium)": [
+        80,
+        100,
+        18
+      ],
+      "whole wheat (large)": [
+        100,
+        100,
+        19
+      ],
+      "multigrain (small)": [
+        80,
+        100,
+        20
+      ],
+      "multigrain (medium)": [
+        100,
+        100,
+        21
+      ],
+      "multigrain (large)": [
+        120,
+        94,
+        22
+      ],
+      "whole grain (small)": [
+        80,
+        100,
+        23
+      ],
+      "whole grain (medium)": [
+        100,
+        100,
+        24
+      ],
+      "whole grain (large)": [
+        120,
+        100,
+        25
+      ]
+    },
+    "Biscuits": {
+      "Parle G": [
+        100,
+        100,
+        26
+      ],
+      "Britannia Marie gold": [
+        100,
+        100,
+        27
+      ],
+      "Oreo": [
+        100,
+        100,
+        28
+      ],
+      "Bourbon": [
+        100,
+        100,
+        29
+      ],
+      "Hide & Seek": [
+        100,
+        100,
+        30
+      ]
+    }
+  },
+  "Dairy Products": {
+    "Milk": {
+      "Pasteurized Milk": [
+        100,
+        100,
+        31
+      ],
+      "Homogenized milk": [
+        100,
+        100,
+        32
+      ],
+      "Whole milk": [
+        120,
+        100,
+        33
+      ],
+      "Skimmed milk": [
+        80,
+        100,
+        34
+      ],
+      "Toned milk": [
+        120,
+        100,
+        35
+      ],
+      "Double toned milk": [
+        250,
+        100,
+        36
+      ],
+      "Buffalo milk": [
+        100,
+        100,
+        37
+      ],
+      "Cow milk": [
+        130,
+        100,
+        38
+      ],
+      "Fermented milk": [
+        60,
+        100,
+        39
+      ]
+    },
+    "Yogurt": {
+      "Traditional Unstrained Yogurt": [
+        200,
+        100,
+        40
+      ],
+      "Greek Yogurt": [
+        200,
+        100,
+        41
+      ],
+      "Goat Milk Yogurt": [
+        150,
+        100,
+        42
+      ],
+      "Sheep Milk Yogurt": [
+        150,
+        100,
+        43
+      ],
+      "Australian Yogurt": [
+        150,
+        90,
+        44
+      ],
+      "ALmond Yogurt": [
+        250,
+        100,
+        45
+      ]
+    },
+    "Butter": {
+      "Unsalted Butter": [
+        100,
+        100,
+        46
+      ],
+      "Salted Butter": [
+        130,
+        100,
+        47
+      ],
+      "Sweet Cream Butter": [
+        150,
+        100,
+        48
+      ],
+      "Cultured Butter": [
+        160,
+        100,
+        49
+      ],
+      "Clarified Butter / Ghee": [
+        180,
+        100,
+        50
+      ],
+      "Organic Butter": [
+        200,
+        100,
+        51
+      ],
+      "Plant-Based Butter": [
+        230,
+        100,
+        52
+      ],
+      "Grass-Fed Butter": [
+        250,
+        100,
+        53
+      ]
+    },
+    "Cheese": {
+      "NORMAL CHEESE CUBES": [
+        120,
+        100,
+        54
+      ],
+      "MOZZARELLA": [
+        200,
+        100,
+        55
+      ],
+      "CHEDDAR": [
+        250,
+        100,
+        56
+      ],
+      "EMMENTAL": [
+        240,
+        100,
+        57
+      ],
+      "PARMESAN": [
+        260,
+        100,
+        58
+      ]
+    },
+    "Ice cream (AVAILABLE IN ALL FLAVOURS)": {
+      "Hard Ice Creams": [
+        100,
+        100,
+        59
+      ],
+      "French Ice Creams": [
+        120,
+        100,
+        60
+      ],
+      "Light Ice Creams": [
+        140,
+        100,
+        61
+      ],
+      "Organic Ice Creams": [
+        180,
+        100,
+        62
+      ],
+      "No Sugar Ice Creams": [
+        200,
+        100,
+        63
+      ],
+      "Soft Ice Creams": [
+        190,
+        100,
+        64
+      ],
+      "Lactose-Free Ice Creams": [
+        250,
+        100,
+        65
+      ],
+      "Gluten-Free Ice Creams": [
+        280,
+        100,
+        66
+      ]
+    }
+  },
+  "Fruits And Vegetables": {
+    "Fruits": {
+      "Apples": [
+        150,
+        100,
+        67
+      ],
+      "pears": [
+        150,
+        100,
+        68
+      ],
+      "oranges": [
+        150,
+        100,
+        69
+      ],
+      "grapefruits": [
+        200,
+        100,
+        70
+      ],
+      "mandarins": [
+        180,
+        100,
+        71
+      ],
+      "limes": [
+        80,
+        100,
+        72
+      ],
+      "nectarines": [
+        90,
+        100,
+        73
+      ],
+      "apricots": [
+        120,
+        100,
+        74
+      ],
+      "peaches": [
+        140,
+        100,
+        75
+      ],
+      "plums": [
+        180,
+        100,
+        76
+      ],
+      "bananas": [
+        100,
+        84,
+        77
+      ],
+      "mangoes": [
+        240,
+        100,
+        78
+      ],
+      "strawberries": [
+        200,
+        100,
+        79
+      ],
+      "raspberries": [
+        190,
+        100,
+        80
+      ],
+      "blueberries": [
+        200,
+        100,
+        81
+      ],
+      "kiwifruit": [
+        200,
+        100,
+        82
+      ],
+      "passionfruit": [
+        300,
+        100,
+        83
+      ],
+      "watermelons": [
+        400,
+        100,
+        84
+      ],
+      "rockmelons": [
+        200,
+        100,
+        85
+      ],
+      "honeydew melons": [
+        350,
+        100,
+        86
+      ],
+      "Tomatoes": [
+        100,
+        100,
+        87
+      ],
+      "avocados": [
+        130,
+        100,
+        88
+      ]
+    },
+    "Vegetables": {
+      "lettuce": [
+        100,
+        100,
+        89
+      ],
+      "spinach": [
+        120,
+        100,
+        90
+      ],
+      "silverbeet": [
+        200,
+        100,
+        91
+      ],
+      "cabbage": [
+        100,
+        100,
+        92
+      ],
+      "cauliflower": [
+        120,
+        100,
+        93
+      ],
+      "Brussels sprouts": [
+        200,
+        100,
+        94
+      ],
+      "broccoli": [
+        100,
+        100,
+        95
+      ],
+      "pumpkin": [
+        200,
+        100,
+        96
+      ],
+      "cucumber": [
+        90,
+        100,
+        97
+      ],
+      "zucchini": [
+        100,
+        100,
+        98
+      ],
+      "potato": [
+        100,
+        89,
+        99
+      ],
+      "sweet potato": [
+        100,
+        100,
+        100
+      ],
+      "yam": [
+        120,
+        100,
+        101
+      ],
+      "celery": [
+        100,
+        100,
+        102
+      ],
+      "asparagus": [
+        200,
+        100,
+        103
+      ],
+      "onion": [
+        120,
+        100,
+        104
+      ],
+      "garlic": [
+        90,
+        100,
+        105
+      ],
+      "shallot": [
+        100,
+        100,
+        106
+      ]
+    }
+  }
+}
